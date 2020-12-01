@@ -1,0 +1,26 @@
+node_modules/
+.idea/
+.expo/
+# Android Studio
+.project
+.settings
+.classpath
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+/android/
+
+# Node
+node_modules
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
+# react-native-codegen
+/Libraries/FBReactNativeSpec/FBReactNativeSpec
+/packages/react-native-codegen/lib
+/ReactCommon/fabric/components/rncore/
+/schema-native-modules.json
+/schema-rncore.json
